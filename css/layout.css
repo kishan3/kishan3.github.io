@@ -329,10 +329,22 @@ ul#nav li.current a { color: #F06000; }
   	-webkit-animation: python 2s ease;
 }
 .django {
-  	width: 80%;
-  	-moz-animation: django 2s ease;
-  	-webkit-animation: django 2s ease;
+    width: 80%;
+    -moz-animation: django 2s ease;
+    -webkit-animation: django 2s ease;
 }
+.flask {
+    width: 70%;
+    -moz-animation: django 2s ease;
+    -webkit-animation: django 2s ease;
+}
+
+.java, .aws {
+    width: 60%;
+    -moz-animation: python 2s ease;
+    -webkit-animation: python 2s ease;
+}
+
 .javascript {
   	width: 60%;
   	-moz-animation: javascript 2s ease;

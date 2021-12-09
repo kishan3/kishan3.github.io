@@ -1,4 +1,4 @@
-# kishan3.github.io
+# About me
 
 This repository contains code for my resume github.io page.
 
